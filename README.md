@@ -1,6 +1,6 @@
 # Note-taker
 
-[Time Quiz Depoly Application!](https://glacial-dusk-98353.herokuapp.com) - https://glacial-dusk-98353.herokuapp.com
+[Note-taker Depoly Application!](https://glacial-dusk-98353.herokuapp.com) - https://glacial-dusk-98353.herokuapp.com
 
 * This application will use an express backend and save and retrieve note data from a JSON file.
 <img src="public/assets/loadingpage.png">
